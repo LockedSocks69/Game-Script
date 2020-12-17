@@ -24,9 +24,9 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    e "big gay, click to continue."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    e "Developers get to work also btw mmmmmmmmmmmmmmmmmmmmmmmmmm"
 
     # This ends the game.
 
